@@ -121,10 +121,11 @@ export function HomeContent() {
             )}
           />
           <h1 className="text-5xl font-display lg:text-6xl self-center flex font-semibold leading-snug text-primary dark:text-primary-dark">
-            React
+            万晓旭
           </h1>
           <p className="text-4xl font-display max-w-lg md:max-w-full py-1 text-center text-secondary dark:text-primary-dark leading-snug self-center">
-            用于构建 Web 和原生交互界面的库
+            {/* 用于构建 Web 和原生交互界面的库 */}
+            好看的普通的女朋友
           </p>
           <div className="mt-5 self-center flex gap-2 w-full sm:w-auto flex-col sm:flex-row">
             <ButtonLink
@@ -133,7 +134,7 @@ export function HomeContent() {
               size="lg"
               className="w-full sm:w-auto justify-center"
               label="Learn React">
-              学习 React
+              了解 万晓旭
             </ButtonLink>
             <ButtonLink
               href={'/reference/react'}
@@ -141,7 +142,7 @@ export function HomeContent() {
               size="lg"
               className="w-full sm:w-auto justify-center"
               label="API Reference">
-              API 参考
+              旅游日志
             </ButtonLink>
           </div>
         </div>
